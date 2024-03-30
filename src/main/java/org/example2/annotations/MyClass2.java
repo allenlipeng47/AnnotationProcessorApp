@@ -1,4 +1,4 @@
-package org.example2;
+package org.example2.annotations;
 
 public class MyClass2 {
 
