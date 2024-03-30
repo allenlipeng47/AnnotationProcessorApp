@@ -1,7 +1,7 @@
 package org.example2;
 
-//import org.example.builder.GeneratorBuilder;
+import org.example.builder.Builder;
 
-//@GeneratorBuilder(className = {"org.example.MyClass"})
+@Builder(className = {"org.example2.MyClass2"})
 public class AnnotationDefine {
 }
